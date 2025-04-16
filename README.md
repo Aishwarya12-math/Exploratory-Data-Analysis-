@@ -1,2 +1,5 @@
 # Exploratory-Data-Analysis-
-Removed missing and duplicate values.  Renamed columns for clarity.  Corrected date and number formats.  Dropped irrelevant columns (e.g., Patient ID).  Filtered out invalid data (e.g., negative age).
+insights related to survival based on features like age, sex, Pclass, etc.
+Wrote down observations and summarized key findings
+Tools & Libraries:
+Python, Jupyter Notebook
